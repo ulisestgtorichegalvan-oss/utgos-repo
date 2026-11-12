@@ -1,0 +1,14 @@
+Package: utgmenuprodeb
+Version: 1.0
+Architecture: all
+Maintainer: Ulises Toriche <ulisestgtorichegalvan@gmail.com>
+Depends: whiptail, apt
+Filename: ./utgmenuprodeb.deb
+Size: 3764
+MD5sum: 5d8a34cf69eec498a78b99d6628b83bd
+SHA1: f96985292dea68f151f9e85a9bc3528d26d21eec
+SHA256: c0efcd6fc76df456e8d2f3f4bcca7bc608d3a2e8d7d1682daaa03f1baefed47a
+Section: utils
+Priority: optional
+Description: Menu interactivo personalizado UTGOS para gestionar paquetes Debian
+

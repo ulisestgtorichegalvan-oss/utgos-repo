@@ -1,0 +1,7 @@
+Origin: UTGOS
+Label: UTGOS Repository
+Suite: stable
+Codename: trixie
+Architectures: all arm64 amd64
+Components: main
+Description: Repositorio oficial de UTGOS
